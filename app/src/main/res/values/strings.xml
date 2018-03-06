@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hackathon</string>
+    <array name="menu_array">
+        <item>Просмотреть результаты</item>
+        <item>Просмотреть уровни</item>
+    </array>
+    <string name="number">№</string>
+    <string name="lvl">Уровень</string>
+    <string name="user">Игрок</string>
+    <string name="result">Результат</string>
+</resources>
